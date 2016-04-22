@@ -26,6 +26,6 @@ id  ="com.phonegap.example4"
  
  <!--Colocar icono app-->
  
- <icon src="res/android/folder-iphone-icon.png"/>
+ <icon src="res/android/mdpi.png"/>
  </widget>
   
